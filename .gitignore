@@ -1,11 +1,11 @@
 # Default ignored files
 /shelf/
-/.idea/workspace.xml
+.idea/workspace.xml
 # Editor-based HTTP Client requests
-/httpRequests/
+.idea/httpRequests/
 # Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
-../test/classes/*.class
-../beerV1/classes/*.class
-../.idea
+.idea/dataSources/
+.idea/dataSources.local.xml
+test/classes/*.class
+beerV1/classes/*.class
+.idea
