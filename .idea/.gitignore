@@ -8,4 +8,4 @@
 /dataSources.local.xml
 ../test/classes/*.class
 ../beerV1/classes/*.class
-../.idea/*.xml
+../.idea/*
