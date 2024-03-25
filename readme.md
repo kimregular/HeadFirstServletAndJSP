@@ -2,6 +2,8 @@
 
 책을 읽으며 해당 개념을 학습한다.
 
+[노션 정리 링크](https://regular-jk-kim.notion.site/addf0b4f93664a70882980aa7a238fae?v=891965005036474fa6d94782ba48cd8f)
+
 ## 진행경과
 - 240319
   - mvc 모델 적용
