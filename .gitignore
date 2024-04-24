@@ -9,3 +9,4 @@
 test/classes/*.class
 beerV1/classes/*.class
 .idea
+.DS_Store
