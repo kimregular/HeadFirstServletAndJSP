@@ -11,4 +11,5 @@ beerV1/classes/*.class
 .idea
 .DS_Store
 
-.iml
+/lib
+*.iml
