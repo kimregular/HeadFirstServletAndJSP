@@ -6,6 +6,10 @@
       <sourceFolder url="file://$MODULE_DIR$/beerV1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test/etc" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CH4_servletConfigInitTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

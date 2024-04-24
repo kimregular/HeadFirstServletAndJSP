@@ -1,0 +1,23 @@
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
+         version="2.4">
+
+    <servlet>
+        <servlet-name>BeerParamTests</servlet-name>
+        <servlet-class>com.example.TestInitParams</servlet-class>
+        <init-param>
+            <param-name>adminEmail</param-name>
+            <param-value>regular.jk.kim@gmail.com</param-value>
+        </init-param>
+        <init-param>
+            <param-name>mainEmail</param-name>
+            <param-value>regular_jk_kim@naver.com</param-value>
+        </init-param>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>BeerParamTests</servlet-name>
+        <url-pattern>/Tester.do</url-pattern>
+    </servlet-mapping>
+
+</web-app>
